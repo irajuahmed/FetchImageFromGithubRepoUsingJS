@@ -1,6 +1,20 @@
-[{"name":"ay","id":"533"},
-{"name":"kiy","id":"33"},
-{"name":"iy","id":"33"},
-{"name":"iy","id":"3"},
-{"name":"kiy","id":"35"},
-{"name":"kiy","id":"34"}];
+const employees = [
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "position": "Developer"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "position": "Designer"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "position": "Manager"
+  }
+];
