@@ -1,4 +1,4 @@
-const employees = [
+[
   {
     "id": 1,
     "name": "John Doe",
@@ -17,4 +17,4 @@ const employees = [
     "email": "bob.johnson@example.com",
     "position": "Manager"
   }
-];
+]
