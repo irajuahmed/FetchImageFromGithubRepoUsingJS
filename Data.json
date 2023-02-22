@@ -3,18 +3,21 @@
     "id": 1,
     "name": "John Doe",
     "email": "john.doe@example.com",
-    "position": "Developer"
+    "position": "Developer",
+    "image":"https://github.com/irajuahmed/JSONFileReadUsingJavaScript/blob/main/images/team-1.jpg"
   },
   {
     "id": 2,
     "name": "Jane Smith",
     "email": "jane.smith@example.com",
-    "position": "Designer"
+    "position": "Designer",
+    "image":"https://github.com/irajuahmed/JSONFileReadUsingJavaScript/blob/main/images/team-2.jpg"
   },
   {
     "id": 3,
     "name": "Bob Johnson",
     "email": "bob.johnson@example.com",
-    "position": "Manager"
+    "position": "Manager",
+    "image":"https://github.com/irajuahmed/JSONFileReadUsingJavaScript/blob/main/images/team-3.jpg"
   }
 ]
