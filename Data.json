@@ -1,21 +1,20 @@
-[{
-    "results": [{
-        "oldID": 5,
-        "oldMain": "News papers"
-    }]
-}, {
-    "results": [{
-        "oldID": 3,
-        "oldMain": "Construction"
-    }]
-}, {
-    "results": [{
-        "oldID": 2,
-        "oldMain": "Banking Files"
-    }]
-}, {
-    "results": [{
-        "oldID": 1,
-        "oldMain": "Technologies"
-    }]
-}]  
+const employees = [
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "position": "Developer"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "position": "Designer"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "position": "Manager"
+  }
+];
